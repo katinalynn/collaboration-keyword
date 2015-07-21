@@ -37,8 +37,15 @@ Zotero library: [https://www.zotero.org/groups/collaboration_dh/items](https://w
 
 * * *
 
+# COLLABORATION
 
-## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
+## AUTHORS
+Institutional Affiliation (if any) | Website
+
+##### Publication Status: 
+* unreviewed draft
+
+## Curatorial Statement (roughly 750-800 words, MLA Format)
 
 In some ways, all scholarly work is collaborative. In research, writing, and teaching, ideas build on countless others, weaving a vast and complex network of influences. Collaborative work foregrounds this network explicitly and openly, celebrating the value that many hands bring to a project. In this section we address collaboration in the context of humanities education, paying particular attention to the intervention of technology in the classroom.
 
