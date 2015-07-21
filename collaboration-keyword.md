@@ -1,80 +1,104 @@
-# KEYWORD ENTRY TEMPLATE
+Github repository and instructions: [https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/!template.md](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/!template.md) 
 
-**Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
+Keywords: [https://digitalpedagogy.commons.mla.org/keywords/](https://digitalpedagogy.commons.mla.org/keywords/) 
 
-**The entry should be authored in Markdown, saved as an .md file. If you'd like, then you can simply copy the [raw Markdown for this file](https://raw.githubusercontent.com/curateteaching/digitalpedagogy/master/keywords/!template.md) and replace it with your own content.**
+Zotero library: [https://www.zotero.org/groups/collaboration_dh/items](https://www.zotero.org/groups/collaboration_dh/items)
 
-Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
+**Due August 1**
 
-# KEYWORD
+* 7/14: rough draft and selections mostly made -- circulate draft and remaining questions by email
 
-## AUTHOR(S)
-Institutional Affiliation (if any) | Website
+* 7/20: Final draft of curatorial statement done
 
----
+* 7/20: Vote on artifacts and resources
 
-##### Publication Status:
-* unreviewed draft
-* draft version undergoing editorial review
-* draft version undergoing peer-to-peer review
-* published 
+* 7/21: in person meeting @ 3pm (in person edits, getting things into GitHub)
 
---- 
+* 7/29: All work complete and submitted
 
-## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
+**VOTING**
 
-The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical artifacts around it. Statements can include some or all of the following: 
+**Danica’s top artifacts**: 1) Pedagogy Project (HASTAC) 2) FemTechNet 3) Teaching #BlackLivesMatter 4) Not Your Mama’s Gamer 5) Mike Wesch, Falling Up 6) Digital Holland 7) Jennifer Sano-Franchini 8) HASTAC as a network 9) Futures Initiative 
 
-* Vision statement (how do you envision or understand this keyword and its relation to pedagogy?)
-* Scholarly rationale for selections 
-* Criteria for selections (why were the specific curated artifacts selected?) 
-* Important issues (why teach this now? why does this topic matter for students? for faculty? for a field? what makes this keyword unique or exemplary for digital pedagogy?) 
-* Particular intersections with your pedagogical philosophy/teaching conditions (how and where do you teach issues related to this keyword? in what course(s)? with what learning expectations/outcomes in mind? with or without what resources? what are your students' backgrounds, interests, or investments?) 
+**Danica’s top related materials**: (1) JiTP issue 7 on collaboration and mentoring
 
-Unless it draws upon your first-person experience in the classroom, please limit the use of first person. 
+**Amanda's top artifacts**:
 
-## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
+**Amanda's top related materials**:(1) JiTP issue 7 on collaboration and mentoring (2) Writing Together: Collaboration in Theory and Practice by Lunsford and Ede (3) Pedagogy-Toolkit (4) Compile on Collaboration (4) Rebecca Moore Howard’s bibliography project on Collaboration (5) This Zotero Group [https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities](https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities) 
 
-Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal.
+**Katina's top artifacts**: (1) Pedagogy Project; (2) FemTechNet DOCCs; (3) Teaching #BlackLivesMatter; (4) Not Your Mama's Gamer; (5) Mike Wesch, Falling Up; (6) Digital Holland; (7) Jennifer Sano-Franchini; (8) Mapping the Futures of Higher Education; (9) Jazz in the City (Hamilton DHI); (10) Ivanhoe or one of the GC Digital Praxis projects
 
-For each of your ten artifacts, please provide: 
+**Katina's top related materials**: (1) JiTP issue 7 on collaboration and mentoring; (2) Alex Christie's Pedagogy Toolkit; (3) CBOX
 
-* Title of Artifact (as it appears on the actual "document")
-* Artifact Type: Pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work.
-* Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work-AfAm-syllabus.png”
-* Source URL 
-* Artifact Permissions (note whether content is shared under a Creative Commons license)
-* Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
-* Creator and Affiliation
-* An annotation of **no more than 150 words** that includes:
-	* Brief statement of aim/purpose of the artifact (what is it?) 
-	* Brief statement on its relevance to your keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
-	* Guidelines for use (how to integrate it into a course, what might need revision/adaptation)
+* * *
 
-Please order the artifacts purposefully -- either alphabetically (according to title or author) or in an order that denotes a different taxonomy (e.g., from beginner to expert level use).
 
-We have begun a list of FAQ in a ReadMe file (https://github.com/curateteaching/digitalpedagogy/blob/master/README.md) in addition to a description of the project (https://github.com/curateteaching/digitalpedagogy/blob/master/description.md) and all other keywords (https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md). 
+1. **Author(s): **Amanda Licastro, Katina Rogers, Danica Savonick
 
-Feel free to push these artifacts to a server for remote access, and then send us the URL. Or you can create your own GitHub repo for this work. In your Markdown file, you can just include file names (e.g., keyword screenshot1.png) for our reference, with the annotations and other information following them. Ultimately, all of your artifacts will be integrated in this repository (curateteaching/digitalpedagogy). 
+* * *
 
-Once we receive your entry, we will review and edit it (where necessary), return the proof to you (for approval/revision), and then forward the approved proof to the MLA. The entire GitHub Repository is now available online for view by the public; if you wish your keyword-in-process during this first phase to remain private, please let us know. 
 
-Later, the keyword and the entire *Digital Pedagogy in the Humanities* collection will be made available online (open access) for open review. That said, please let us know if you have any questions or concerns about the open review process, or about rendering your work discoverable online. In the interests of transparency, I should note that we are still fleshing out the particulars of this review process with the MLA, and we want to keep our curators' needs and interests in mind as we do so.  
+## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
-## RELATED MATERIALS
+In some ways, all scholarly work is collaborative. In research, writing, and teaching, ideas build on countless others, weaving a vast and complex network of influences. Collaborative work foregrounds this network explicitly and openly, celebrating the value that many hands bring to a project. In this section we address collaboration in the context of humanities education, paying particular attention to the intervention of technology in the classroom.
 
-In MLA format, list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
+No matter what form collaboration takes—whether crowd-sourced projects, co-authored research, networked learning, or building and gaming—it depends on difference. Cathy Davidson has articulated this as "[collaboration by difference](https://www.youtube.com/watch?v=zk8mvIYaO3w)," a concept that grounds the deeply collaborative [HASTAC](http://www.hastac.org/) network. Davidson suggests that successful collaboration includes diverse perspectives, flips the dichotomy of expert and novice, and explores missed opportunities and alternative ideas. Julia Gergits and James Schramer make a similar claim for classroom environments, noting that "fruitful collaboration often starts with the recognition that difference is essential if a group wishes to generate truly original ideas" ([190](http://www.jaconlinejournal.com/archives/vol14.1/gergits-collaborative.pdf)). Collaborative assignments are also diverse, ranging from low-stakes, informal, in-class activities, to much larger projects that can take weeks, a semester, or years to complete. Rebecca Moore Howard, composition scholar and creator of the [bibliography project](http://www.rebeccamoorehoward.com/bibliographies/collaborative-learning-and-writing), identifies three types of assignments that require collaboration: ones that are labor-intensive, that require multiple areas of expertise, or that require synthesis: placing divergent perspectives in conversation with one another.
 
-For each item, include Author, Title, and URL, in alphabetical order.
+Teaching with an emphasis on collaboration means not only focusing on the end result, but on the value of working together to achieve a common goal. When implementing collaborative pedagogy, the instructor often functions less as what Rancière calls a "master explicator" (SOURCE) and more as a facilitator. Collaborative pedagogy is closely related to student-centered pedagogy, in which students take greater ownership over their learning. As Kenneth Bruffee argues in *Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge, *collaborative learning does not negate the space for a lecture, but shifts the authority so that students are learning from their peers as well as the instructor (SOURCE). Bruffee writes that collaborative learning environments create “transition communities or support groups that students can rely on as they go through the risky process of becoming new members of the knowledge communities” [(8](http://www.amazon.com/Collaborative-Learning-Education-Interdependence-Authority/dp/0801852323/ref=sr_1_1?s=books&ie=UTF8&qid=1436799019&sr=1-1&keywords=9780801852329#reader_0801852323)).  
 
-Items may include, but are not limited to: 
-* Scholarly journal article
-* Book 
-* Video, audio, or other dynamic media
-* Crowdsourced document 
-* Blog post 
+As authors and educators ourselves, we integrate these approaches into our courses, with our failures teaching us as much as our successes. For example, Danica Savonick helps students develop collaboration skills through [courses](http://www.hastac.org/blogs/danicasavonick/2015/05/18/%E2%80%9Cintroduction-narrative%E2%80%9D-collaborative-experimental-intellectual-adv) structured around student-centered learning, public writing, and low-stakes group assignments, all leading up to a collaborative, digital, and public research project, which students evaluate after designing a rubric. Amanda Licastro also scaffolds digital projects into undergraduate writing courses by adding new tools and techniques in slowly throughout the semester. Students begin by posting provocations to a [course blog](https://wp.nyu.edu/licastro_fall14/), sharing "[Digital Literacy Timelines](https://wp.nyu.edu/licastro_fall14/tag/timeline/)," “[live-tweeting](https://wp.nyu.edu/licastro_fall14/tag/atwood/)” their readings, group annotating texts, and posting drafts to peer review. This leads to the collaborative [“Design Fiction](https://wp.nyu.edu/licastro_fall14/category/final_projects/)” project Licastro based on Kari Kraus’s [Bibliocircuitry](http://www.karikraus.com/?p=334) project and Miriam Posner’s [Digital Labor and Materiality](http://digitalmateriallabor.org/final-project/) final, in which students design a new reading or writing technology by pitching ideas, voting on the most compelling proposals, creating group contracts, and executing a prototype together. 
 
-## WORKS CITED
+Whether in the classroom or beyond, digital tools and platforms can make collaboration far easier. Videoconferencing makes it simple for classes discussing similar or complementary topics to connect with one another. Open-source social networking tools, like CBOX [gloss, reference], allow students and faculty members to connect, find shared interests, and present work to an interested community. Tools like Omeka, Neatline, Zotero, Voyant [lots of others—gloss and reference] allow scholars to share their work in new ways, build on one another's ideas, and leverage different strengths to create projects that are as insightful as they are beautiful. At the same time, there is nothing magical about the ways tools like these enable people to do their best work together. All that is needed for collaboration is people working together toward a common goal. Some of the most effective collaboration techniques involve nothing more sophisticated than [note cards and pencils](http://www.hastac.org/blogs/cathy-davidson/2012/04/08/single-best-free-way-transform-classroom).
 
-A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.  
+Learning how to work together across differences, and towards a common goal, is essential training for engaged citizenship and a robust democratic society. Social justice work and grassroots organizing both depend on collaborative efforts, particularly given the scale and complexity of contemporary social issues. In addition, collaboration is critical in the professional environments that students will encounter after earning their degree. Teaching collaborative skills in the scaffolded environment of the classroom, then, makes sense not only in terms of improving students' learning outcomes, but also to equip them to reach their life goals. Educators are increasingly using this pedagogical practice to knit together students' work within the classroom, and also to connect students to broader communities through projects that extend beyond the university to pair with local community-based organizations. 
+
+Collaborative work can pose some serious challenges to dominant, individualistic models of knowledge production, particularly in terms of assessing student work or assigning proper credit. If collaborative scholarship is to thrive, then formal reward structures (such as assignment grading, the dissertation evaluation process, and tenure and promotion) must recognize and appropriately reward that work. Collaboration can also make people feel uncomfortable, and afraid of what will happen if they sacrifice control over a project. However, we hope that the examples we've included will minimize this anxiety by modeling successful ways to design and facilitate generative collaborative experiences.
+
+In curating this section, we pay particular attention to resources that exemplify the following values: 
+
+* Diversity. Since collaboration by difference relies on the inclusion of a variety of voices and perspectives, we sought to include projects that pay special attention to diversity by foregrounding feminist, anti-racist, queer, decolonial, or interdisciplinary epistemologies and methodologies, and/or by including collaborators that embody diversity of race, ethnicity, gender, background, and discipline.
+
+* Equality. When multiple partners shape the project's goals and direction, each collaborator must be given fair credit. As much as possible, we worked to include non-proprietary digital projects that ensure the broadest possible access.
+
+* Student-centered. While not all of the projects we feature are student-created, they all give special value to the importance of teaching and learning, and the role of the student in shaping their own educational experience.
+
+* Creativity. The projects that were most likely to catch our eyes were those that did something new, beautiful, or risky that spark new insights and, in doing so, advance a field.
+
+We hope that these resources will inspire educators to experiment with collaborative pedagogy, and explore its potential to bring about a more just, equitable, and pleasurable future. 
+
+--
+
+## 4. Curated Pedagogical Resources (ten resources, each with metadata, a screenshot, and a 150-word annotation)
+
+1. *The Pedagogy Project (*and particularly the chapter on "Collaborative Digital Projects")http://www.hastac.org/pedagogy-project
+
+![image alt text](image_0.png)The Pedagogy Project is a crowd-sourced collection of more than 80 projects and assignments related to digital technologies and collaboration. It appears on HASTAC (Humanities, Arts, Science, and Technology Alliance and Collaboratory) a free and open network of educators committed to transforming the ways we teach and learn. This exciting collection is organized into nine chapters, which range from "Assessment Strategy" to “Multimedia Projects.” We highly recommend the chapter on “Collaborative Digital Projects,” which includes examples of projects and assignments related to close reading, blogging, game design, annotation studio, digital archives, visualization, and designing assignment sequences. 
+
+2. FemTechNet Distributed Open Collaborative Course (DOCC)[http://femtechnet.org/docc/nodes/](http://femtechnet.org/docc/nodes/) ![image alt text](image_1.png)
+
+![image alt text](image_2.png)FemTechNet is an activated network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism. For the past four academic years, FemTechNet has hosted a Distributed Open Collaborative Course in which instructors teaching courses related to "Feminism and Technology" use online platforms to connect their learning communities. In contrast to the top-down, hierarchical model of the MOOC (Massive Open Online Course) in which one instructor disseminates knowledge to many students, DOCC’s are decentralized networks with multiple “nodes,” all of which are hubs of engaged, participatory learning. Based on the feminist praxes of distributed expertise and methods, this experiment in connected learning allows educators to share resources such as readings, video dialogues, and guest lectures, and creates a space for dialogue across institutional and disciplinary divides. 
+
+3. Teaching #BlackLivesMatter: Countering the Pedagogies of Anti-black Racism Crowd-Sourced Syllabus ![image alt text](image_3.png)![image alt text](image_4.png)[https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit) ["Teaching #BlackLivesMatter"](http://www.hastac.org/blogs/danicasavonick/2014/12/10/teaching-blacklivesmatter-countering-pedagogies-anti-black-racism) was an event organized by the Mentoring Future Faculty of Color (MFFC) group at the CUNY Graduate Center that explored “how to address racialization and state power as scholar-teachers, working at the level of both immediately executable plans for teaching/research, and longer term strategies for making the academy accountable to racial violence.” In order to extend this conversation to as many voices as possible, the organizers set up a syllabus template using Google Docs that anyone could contribute to and circulate. Contributors are invited to share resources, activities, discussion questions, and assignments related to teaching anti-racism. As with many of our examples, here technology was used to advance the group’s objectives for the event, and to reach a wider audience.  
+
+4. [Not Your Mama’s Gamer](http://www.nymgamer.com/?page_id=2) (NYMG), created by Samantha BlackmonNYMG is a collaborative blog with a series of regular and featured contributors who critique video games and gaming culture. The site includes podcasts, videos, and and a list of outside content of interest all working towards the mission of "unpacking games from a feminist perspective, and having a good time while we’re at it."  From creator Samantha Blackmon “NYMG has not only been a tool for social change, but a pedagogical one on a number of levels. The site helps demonstrate how we can work collaboratively with other scholars, industry professionals, and community members to learn from each other and work together as change agents. NYMG also gives us the chance to show people how we, as scholars, might not only write for an academic audience, but also write in such a way as to become a part of a broader conversation.”
+
+5. Mike Wesch, "Falling Up"For several semesters now, students in Mike Wesch’s “Digital Ethnography” courses have moved out of the dormitories at Kansas State University and into Meadowlark Hills, a retirement community located several blocks from campus. Wesch’s pedagogy challenges top-down and individualistic modes of learning by instead [organizing his courses](https://kansasstate.mediasite.com/mediasite/Play/f9f9b2ffa5cc44dc9d7c7eda182bf75c1d) around collaborative final projects that are worth working for. In some semesters, these have been student- designed, directed, and produced [videos](https://kansasstate.mediasite.com/mediasite/Play/04f1d580eb664a068c9a9cebef7522771d). This semester it was an “Interactive Empathy Game-Story” called “Falling Up.” In order to produce these digital ethnographies, students spend the semester getting to know the residents: eating meals together, playing Rumikub, and collecting hours of interview footage. Wesch’s classes often meet not in a classroom, but in the students’ rooms at Meadowlark. They sit in a circle and Wesch acts as project manager, guiding the students to reflect on what they’ve achieved over the past week, what tasks need to be done in order to produce their final project, and how they will divide up the labor. Through his collaboration with Meadowlark Executive, Annie Peace, the two have produced transformative experiences for both students and residents, modeling how collaborative pedagogy can catalyze institutional change. 
+
+6. Digital Holland by Hope College/Users/amandalicastro/Dropbox/Collaboration/Digital_Holland.png ![image alt text](image_5.png)[Digital Holland ](http://digitalholland.org/)is a digital archive of the history of Holland, MI created by students, faculty, and staff at Hope College alongside community members and volunteers. As stated on the website, the goal of this project is to: "Provide information in an easily accessible way, highlight the diversity of the community, and share the stories of individuals who have not been represented in the historical narrative." The project is at the heart of Hope College’s undergraduate program in digital liberal arts, through which students learn a variety of digital skills and interdisciplinary content to help them improve this resource. The original site was sponsored in part by the Andrew W. Mellon foundation, which provided the funding for the the [Hope College Mellon Scholars](http://www.hope.edu/academic/mellon/index.html) who coordinate these efforts. 
+
+7. Feminisms and Interaction Design (IxD), Final Project Assignment, by Jennifer Sano-Franchini![image alt text](image_6.png)![image alt text](image_7.png)This project was designed by Sano-Franchini as the culmination of a ENGL 4874 [Issues in Professional and Public Discourse](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Syllabus-Web.pdf) for English majors in the Professional Writing option at Virginia Tech. This course, which won the [XCaliber](https://tlos.vt.edu/xcaliber_awards/) award for teaching with technology, invites students to investigate "“wicked problems," defined by[ Jon Kolko](http://www.jonkolko.com)’s as: “a form of large-scale social or cultural problem that is difficult to solve because of incomplete, contradictory, and changing requirements.” Sano-Franchini writes in an interview with *[The Chronicle of Higher Educatio*n](http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/07/12/feminisms-interaction-design-an-interview-with-jennifer-sano-franchini/)*, *“if we think of sexism and gender inequality as “wicked problems,” it makes sense to consider if IxD can offer useful and practical approaches for designing experiences that engage these problems.” For the final project, students work in groups of 3-4 to design a conceptual prototype (for a mobile application, game, website, interface, performance, etc) informed by theories, research, and ideas in feminisms and interaction design.
+
+8. [Living Laboratory,](https://openlab.citytech.cuny.edu/livinglab/living-lab/) by OpenLab at City Tech![image alt text](image_8.png)The mission of the undergraduate collaborative at CUNY’s City Tech is to "re-envision General Education as a ‘living laboratory’ using City Tech’s signature strengths – hands-on experiential models of learning and our vibrant Brooklyn Waterfront location." This Title V grant funded program uses the rich historical and environmental resources of the Brooklyn waterfront to inspire location-based pedagogy across the disciplines. Living Laboratory uses a custom WordPress platform, Open Lab, to create digital interactive projects, support an open teaching and learning space, and to “enhance the intellectual and social fabric of the college community.” 
+
+9. [B-Social](http://beautifulsocial.org/), a Digital Research Collaborative at St. Joseph's University![image alt text](image_9.png)Directed by Aimee Knight, assistant professor in the Department of Communication Studies, "Beautiful Social" pairs students with local non-profit organizations in inner-city Philadelphia to provide consulting, training, multimedia production, and community research. Students learn about the mission of each community group in order to design social media resources for the organizations. In “[Into the Wild: when students consult with nonprofits](https://medium.com/@aimeeknight/into-the-wild-when-students-consult-with-nonprofits-ac130578bb54)” Knight writes, “[w]hile working with[ B-Social](http://beautifulsocial.org/) research collaborative we learn how to take social media beyond the personal, beyond entertainment and into places for activism and social change. Working with nonprofits with purpose-driven missions shows us how social media can help make a difference in the world.”
+
+10.  "[Mapping Mythology"](http://www.mappingmythology.com/)  by Jared Simrad![image alt text](image_10.png)This site is part of Simrad’s dissertation in the Classics program at the Graduate Center, CUNY. The project, formulated in the graduate-level Instructional Technology and Pedagogy certificate program, is a tool Simrad uses to help students engage with the relevance of Greek and Roman mythology in their surroundings by asking students to search for iconography in the art and architecture of New York City and document it in a digital, interactive archive. This crowdsourced mapping project uses the open-source platform Neatline as its base, and is supported by the Graduate Center, CUNY’s [Provost Digital Innovation Grant](https://gcdi.commons.gc.cuny.edu/category/provosts-digital-innovation-grants/) program which encourages winners to work together to troubleshoot and problem solve as they build, making this collaborative on many levels. 
+
+## 5. Related Materials (Bulleted List)
+
+6. Works CitedBruffee, Kenneth M. *Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge*
+
+Gergits, Julia M. and James J. Schramer. "The Collaborative Classroom as the Site of Difference’" * Journal of Advanced Composition.* 14.1 (1994). 187-202. Print.
+
+Howard, Rebecca Moore. "Collaborative Pedagogy." *A Guide to Composition Pedagogies*. New York: Oxford University Press, 2001.Ranciere, Jacques. *The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation*. Stanford: Stanford UP, 1991.
 
