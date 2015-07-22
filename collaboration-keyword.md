@@ -2,7 +2,7 @@
 
 ## Amanda Licastro
 
-**The Graduate Center, CUNY**** | Website**
+**Stevenson University | cuny.is/digitocentrism**
 
 ## Katina Rogers
 
@@ -10,7 +10,7 @@
 
 ## Danica Savonick
 
-**The Graduate Center, CUNY |danicasavonick.commons.gc.cuny.edu**
+**The Graduate Center, CUNY | danicasavonick.commons.gc.cuny.edu**
 
 * * *
 
