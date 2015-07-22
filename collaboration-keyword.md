@@ -2,15 +2,15 @@
 
 ## Amanda Licastro
 
-**Stevenson University | cuny.is/digitocentrism**
+**Stevenson University | [cuny.is/digitocentrism](http://cuny.is/digitocentrism)**
 
 ## Katina Rogers
 
-**The Graduate Center, CUNY | katinarogers.com**
+**The Graduate Center, CUNY | [katinarogers.com](http://katinarogers.com)**
 
 ## Danica Savonick
 
-**The Graduate Center, CUNY | danicasavonick.commons.gc.cuny.edu**
+**The Graduate Center, CUNY | [danicasavonick.commons.gc.cuny.edu](http://danicasavonick.commons.gc.cuny.edu)**
 
 * * *
 
