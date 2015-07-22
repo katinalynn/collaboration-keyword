@@ -27,7 +27,7 @@
 
 ## CURATORIAL STATEMENT 
 
-In research, writing, and teaching, ideas build on countless others, weaving a vast and complex network of influences. Collaborative work foregrounds this network explicitly and openly, celebrating the value that many hands bring to a project. It includes diverse perspectives, flips the dichotomy of expert and novice, and explores missed opportunities and alternative ideas—something Cathy Davidson, founder of the deeply collaborative [HASTAC](http://www.hastac.org/) network, articulates as "[collaboration by difference](https://www.youtube.com/watch?v=zk8mvIYaO3w)". No matter what form collaboration takes—whether crowd-sourced projects, co-authored research, networked learning, or building and gaming—it depends on difference. 
+In research, writing, and teaching, ideas build on countless others, weaving a vast and complex network of influences. Collaborative work foregrounds this network explicitly and openly, celebrating the value that many hands bring to a project. It includes diverse perspectives, flips the dichotomy of expert and novice, and explores missed opportunities and alternative ideas—something Cathy Davidson, founder of the deeply collaborative [HASTAC](http://www.hastac.org/) network, articulates as "[collaboration by difference](https://www.youtube.com/watch?v=zk8mvIYaO3w)." No matter what form collaboration takes—whether crowd-sourced projects, co-authored research, networked learning, or building and gaming—it depends on difference. 
 
 Collaboration by difference is valuable in classroom environments as well. Julia Gergits and James Schramer note that "fruitful collaboration often starts with the recognition that difference is essential if a group wishes to generate truly original ideas" ([190](http://www.jaconlinejournal.com/archives/vol14.1/gergits-collaborative.pdf)). Several types of assignments are well suited to collaboration, according to Rebecca Moore Howard, composition scholar and creator of the [bibliography project](http://www.rebeccamoorehoward.com/bibliographies/collaborative-learning-and-writing): ones that are labor-intensive, that require multiple areas of expertise, or that require synthesis of divergent perspectives. These can range from low-stakes, informal, in-class activities to larger long-term projects.
 
@@ -60,7 +60,7 @@ We hope that these resources will inspire educators to experiment with collabora
 - Type: a Digital Research Collaborative at St. Joseph's University
 - Source: http://beautifulsocial.org/
 - Copy of artifact: 
-- Artifact Permissions: 
+- Artifact Permissions: Permission granted from Aimee Knight
 - Creator: Aimee Knight 
 - Affiliation: St. Joseph's University
 - Screenshot: collaboration_BSocial.png
@@ -91,7 +91,7 @@ In [Digital Humanities 150](http://digitalmateriallabor.org/) at UCLA, Professor
 
 Students in Mike Wesch’s "Digital Ethnography" courses move out of the dormitories at Kansas State University and into Meadowlark Hills, a retirement community near campus. Wesch’s pedagogy challenges top-down and individualistic modes of learning by [organizing his courses](https://kansasstate.mediasite.com/mediasite/Play/f9f9b2ffa5cc44dc9d7c7eda182bf75c1d) around meaningful collaborative final projects, such as student-designed, directed, and produced [videos](https://kansasstate.mediasite.com/mediasite/Play/04f1d580eb664a068c9a9cebef7522771d). This semester, students created an “Interactive Empathy Game-Story” called “Falling Up.” To produce these digital ethnographies, students spend the semester getting to know the residents and collecting hours of interview footage. Wesch’s classes often meet at Meadowlark, with Wesch guiding the students to reflect on what they’ve achieved, what needs to be done, and how they will divide up the labor. Through his collaboration with Meadowlark Executive, Annie Peace, the two have produced transformative experiences for both students and residents, modeling how collaborative pedagogy can catalyze institutional change within and beyond the classroom. 
 
-###  Feminisms and Interaction Design (IxD)
+###  Feminisms and Interaction Design (IxD) Final Prototyping Project
 ![screenshot](collaboration_franchini-assignment.png)
 - Type: Final Project Assignment
 - Source: [http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf)
@@ -105,12 +105,12 @@ This project was designed by Sano-Franchini as the culmination of [Issues in Pro
 
 ### Distributed Open Collaborative Course (DOCC)
 ![screenshot](collaboration_FemTechNet-DOCC.png)
-- Type:
+- Type: Course 
 - Source: [http://femtechnet.org/docc/nodes/](http://femtechnet.org/docc/nodes/) 
 - Copy of artifact:
 - Artifact Permissions:
 - Creator: FemTechNet
-- Affiliation:
+- Affiliation: Multiple Universities 
 - Screenshot: collaboration_FemTechNet-DOCC.png
 
 FemTechNet is an active network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism. For the past four years, FemTechNet has hosted a Distributed Open Collaborative Course in which instructors teaching courses related to "Feminism and Technology" use online platforms to connect their learning communities. In contrast to the top-down, hierarchical model of the MOOC (Massive Open Online Course) in which one instructor disseminates knowledge to many students, DOCCs are decentralized networks with multiple “nodes,” all of which are hubs of engaged, participatory learning. Based on the feminist praxes of distributed expertise and methods, this experiment in connected learning allows educators to share resources such as readings, video dialogues, and guest lectures, and creates a space for dialogue across institutional and disciplinary divides.
@@ -133,7 +133,7 @@ This “book review and engagement” is a collaboratively-authored book review 
 - Source: [https://openlab.citytech.cuny.edu/livinglab/](https://openlab.citytech.cuny.edu/livinglab/) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
-- Creator: Open Lab
+- Creator: The Open Lab at City Tech Team 
 - Affiliation: New York City College of Technology, CUNY
 - Screenshot: collaboration_livinglab.png
 
@@ -168,7 +168,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 - Type: Crowd-Sourced Syllabus
 - Source: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
 - Copy of artifact:
-- Artifact Permissions:
+- Artifact Permissions: Open, public Google Doc
 - Creator: Mentoring Future Faculty of Color
 - Affiliation: The Graduate Center, CUNY
 - Screenshot: collaboration_BlackLivesMatter.png
@@ -194,7 +194,8 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 
 Blackmon, Samantha, et al. "Not Your Mama’s Gamer." Web. 22 July 2015. [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2) 
 
-Bruffee, Kenneth M. *Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge*
+Bruffee, Kenneth M. *Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge* 2nd edition. Baltimore, Md: Johns Hopkins University Press, 1998. Print.
+
 
 Christie, Alex. "Pedagogy Toolkit for English." Web. 22 July 2015. [http://pedagogy-toolkit.org/resources/](http://pedagogy-toolkit.org/resources/)
 
