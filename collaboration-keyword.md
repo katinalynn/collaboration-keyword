@@ -168,15 +168,16 @@ Screenshot: collaboration_BlackLivesMatter.png
 
 ## RELATED MATERIALS
 
+* Christie, Alex. "Pedagogy Toolkit for English." Web. 22 July 2015. [http://pedagogy-toolkit.org/resources/](http://pedagogy-toolkit.org/resources/)
+
+* The Futures Initiative. "About The Futures Initiative." The Graduate Center, City University of New York. Web. 22 July 2015. [http://futures.gc.cuny.edu/about/](http://futures.gc.cuny.edu/about/)
+
+* Keith, Melissa, and Joy Palmer. “CompFAQs from CompPile | What Is Collaboration?” Web. 22 July 2015. [http://compfaqs.org/BasicWritingCollaboration/Defined](http://compfaqs.org/BasicWritingCollaboration/Defined)
+
 * "Special Issue: Mentorship and Collaboration." *The Journal of Interactive Technology and Pedagogy* 7 (2015).
 
 * Spiro, Lisa. "Zotero | Groups > Collaborative Scholarship in the Digital Humanities." Web. 22 July 2015. [https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities](https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities) 
 
-* The Futures Initiative. "About The Futures Initiative." The Graduate Center, City University of New York. Web. 22 July 2015. [http://futures.gc.cuny.edu/about/](http://futures.gc.cuny.edu/about/)
-
-* Christie, Alex. "Pedagogy Toolkit for English." Web. 22 July 2015. [http://pedagogy-toolkit.org/resources/](http://pedagogy-toolkit.org/resources/)
-
-* Compile on Collaboration 
 
 ## WORKS CITED
 
@@ -187,8 +188,6 @@ Blackmon, Samantha, et al. "Not Your Mama’s Gamer." Web. 22 July 2015. [http:/
 Bruffee, Kenneth M. *Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge*
 
 Christie, Alex. "Pedagogy Toolkit for English." Web. 22 July 2015. [http://pedagogy-toolkit.org/resources/](http://pedagogy-toolkit.org/resources/)
-
-Compile on Collaboration
 
 Davidson, Cathy. *Collaboration by Difference*. Harvard Business Review, 2012. Film. [https://www.youtube.com/watch?v=zk8mvIYaO3w](https://www.youtube.com/watch?v=zk8mvIYaO3w)
 
@@ -207,6 +206,8 @@ Gold, Matthew K., et al. "Commons In A Box." City University of New York. Web. 2
 HASTAC Scholars. "The Pedagogy Project." HASTAC. Web. 22 July 2015. [http://www.hastac.org/pedagogy-project](http://www.hastac.org/pedagogy-project) 
 
 Howard, Rebecca Moore. "Collaborative Pedagogy." *A Guide to Composition Pedagogies*. New York: Oxford University Press, 2001.
+
+Keith, Melissa, and Joy Palmer. “CompFAQs from CompPile | What Is Collaboration?” Web. 22 July 2015. [http://compfaqs.org/BasicWritingCollaboration/Defined](http://compfaqs.org/BasicWritingCollaboration/Defined)
 
 Licastro, Amanda. “Final Projects.” *Thinking and Writing Through New Media*. N.p., 11 Dec. 2014. Web. 22 July 2015. [https://wp.nyu.edu/licastro_fall14/category/final_projects/](https://wp.nyu.edu/licastro_fall14/category/final_projects/)
 
