@@ -54,7 +54,6 @@ In curating this section, we pay particular attention to resources that exemplif
 We hope that these resources will inspire educators to experiment with collaborative pedagogy, and explore its potential to bring about a more just, equitable, and pleasurable future. 
 
 ## CURATED ARTIFACTS
-(ten resources, each with metadata, a screenshot, and a 150-word annotation)
 
 ### [B-Social](http://beautifulsocial.org/) 
 ![screenshot](collaboration_BSocial.png)
