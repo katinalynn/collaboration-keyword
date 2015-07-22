@@ -39,7 +39,7 @@ Whether in the classroom or beyond, digital tools can streamline collaboration. 
 
 Learning how to work together across differences is essential training for engaged citizenship and a robust democratic society, and is also critical in the professional environments that students will enter after earning their degrees. Teaching collaborative skills in the scaffolded environment of the classroom, then, makes sense not only in terms of improving students' learning outcomes, but also to equip them to succeed beyond the classroom. Educators are increasingly using this pedagogical practice to knit together students' work within the classroom, and also to connect students to broader communities through projects that extend beyond the university to pair with local community-based organizations. 
 
-Collaborative work can pose significant challenges to dominant, individualistic models of knowledge production, particularly in terms of assessing student work or assigning proper credit. If collaborative scholarship is to thrive, then formal reward structures (such as assignment grading, the dissertation evaluation process, and tenure and promotion) must recognize and appropriately reward that work. Collaboration can also make people feel uncomfortable, as it requires relinquishing control over a project. However, we hope that the examples we've included will minimize this anxiety by modeling successful ways to design and facilitate generative collaborative experiences.
+Collaborative work can pose significant challenges to dominant, individualistic models of knowledge production, particularly in terms of assessing student work or assigning proper credit. As Andrea Lunsford and Lisa Ede note, "collaborative writing offers a strong potential challenge to the hegemony of a single, originary authorship and intellectual property and thus presents a series of challenges to higher education in general and to the teaching of writing in particular" (160). If collaborative scholarship is to thrive, then formal reward structures (such as assignment grading, the dissertation evaluation process, and tenure and promotion) must recognize and appropriately reward that work. Collaboration can also make people feel uncomfortable, as it requires relinquishing control over a project. However, we hope that the examples we've included will minimize this anxiety by modeling successful ways to design and facilitate generative collaborative experiences.
 
 In curating this section, we pay particular attention to resources that exemplify the following values: 
 
@@ -209,6 +209,8 @@ HASTAC Scholars. "The Pedagogy Project." HASTAC. Web. 22 July 2015. [http://www.
 Howard, Rebecca Moore. "Collaborative Pedagogy." *A Guide to Composition Pedagogies*. New York: Oxford University Press, 2001.
 
 Licastro, Amanda. “Final Projects.” *Thinking and Writing Through New Media*. N.p., 11 Dec. 2014. Web. 22 July 2015. [https://wp.nyu.edu/licastro_fall14/category/final_projects/](https://wp.nyu.edu/licastro_fall14/category/final_projects/)
+
+Lunsford, Andrea A., and Lisa Ede. *Writing Together: Collaboration in Theory and Practice*. Boston, MA: Bedford/St. Martin’s, 2011. 
 
 Mentoring Future Faculty of Color. "Teaching #BlackLivesMatter: Countering the Pedagogies of Anti-Black Racism, A Collaborative, Crowd-Sourced Syllabus." 19 Dec 2014. The Graduate Center, CUNY. Web. 22 July 2015. [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
 
