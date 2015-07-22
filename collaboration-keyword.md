@@ -69,14 +69,14 @@ We hope that these resources will inspire educators to experiment with collabora
 Directed by Aimee Knight, assistant professor in the Department of Communication Studies, "Beautiful Social" pairs students with local non-profit organizations in inner-city Philadelphia to provide consulting, training, multimedia production, and community research. Students learn about the mission of each community group in order to design social media resources for the organizations. In “[Into the Wild: when students consult with nonprofits](https://medium.com/@aimeeknight/into-the-wild-when-students-consult-with-nonprofits-ac130578bb54)” Knight writes, “[w]hile working with[ B-Social](http://beautifulsocial.org/) research collaborative we learn how to take social media beyond the personal, beyond entertainment and into places for activism and social change. Working with nonprofits with purpose-driven missions shows us how social media can help make a difference in the world.”
 
 ### "Digital Labor, Urban Space, and Materiality"
-![screenshot](collaboration_posner_DesignFiction.png)
+![screenshot](Collaboration_posner_DesignFiction.png)
 - Type: Assignment 
 - Source:  [http://digitalmateriallabor.org/final-project/](http://digitalmateriallabor.org/final-project/) 
 - Copy of artifact: /Users/amandalicastro/Dropbox/Collaboration/Collaboration_DeviceNarrative.png
 - Artifact Permissions: Creative Commons license 
 - Creator: Miriam Posner
 - Affiliation: UCLA
-- Screenshot: collaboration_posner_DesignFiction.png 
+- Screenshot: Collaboration_posner_DesignFiction.png 
 
 In [Digital Humanities 150](http://digitalmateriallabor.org/) at UCLA, Professor Miriam Posner asks students to critique the labor and materiality of digital devices already in production in an assignment termed “device narratives.” This project is designed as an online publication in which each device featured is a “chapter” written collaboratively by groups of students in the course.  These digital texts include maps, photographs, video, and other media hosted on a WordPress site (using the now-defunct ScrollKit). The structure and key concepts of this project are easily adaptable for any undergraduate or graduate course that focuses on research, writing, and digital literacy. 
 
