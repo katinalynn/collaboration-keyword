@@ -75,7 +75,7 @@ Directed by Aimée Knight, assistant professor in the Department of Communicatio
 - Artifact Permissions: Creative Commons license 
 - Creator: Miriam Posner
 - Affiliation: UCLA
-- Screenshot: Collaboration_posner_DesignFiction.png 
+- Screenshot: Collaboration_posner_DigitalLabor.png 
 
 In [Digital Humanities 150](http://digitalmateriallabor.org/) at UCLA, Professor Miriam Posner asks students to critique the labor and materiality of digital devices already in production in an assignment termed “device narratives.” This project is designed as an online publication in which each device featured is a “chapter” written collaboratively by groups of students in the course.  These digital texts include maps, photographs, video, and other media hosted on a WordPress site (using the now-defunct ScrollKit). The structure and key concepts of this project are easily adaptable for any undergraduate or graduate course that focuses on research, writing, and digital literacy. 
 
@@ -92,14 +92,14 @@ In [Digital Humanities 150](http://digitalmateriallabor.org/) at UCLA, Professor
 Students in Mike Wesch’s "Digital Ethnography" courses move out of the dormitories at Kansas State University and into Meadowlark Hills, a retirement community near campus. Wesch’s pedagogy challenges top-down and individualistic modes of learning by [organizing his courses](https://kansasstate.mediasite.com/mediasite/Play/f9f9b2ffa5cc44dc9d7c7eda182bf75c1d) around meaningful collaborative final projects, such as student-designed, directed, and produced [videos](https://kansasstate.mediasite.com/mediasite/Play/04f1d580eb664a068c9a9cebef7522771d). This semester, students created an “Interactive Empathy Game-Story” called “Falling Up.” To produce these digital ethnographies, students spend the semester getting to know the residents and collecting hours of interview footage. Wesch’s classes often meet at Meadowlark, with Wesch guiding the students to reflect on what they’ve achieved, what needs to be done, and how they will divide up the labor. Through his collaboration with Meadowlark Executive, Annie Peace, the two have produced transformative experiences for both students and residents, modeling how collaborative pedagogy can catalyze institutional change within and beyond the classroom. 
 
 ###  Feminisms and Interaction Design (IxD)
-![screenshot](collaboration_franchini-assignment.png)
+![screenshot](collaboration_sano-franchini-assignment.png)
 - Type: Final Project Assignment
 - Source: [http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf)
-- Copy of artifact:
+- Copy of artifact: collaboration_sano-franchini-assignment.pdf
 - Artifact Permissions: CC BY-NC-SA 4.0
 - Creator: Jennifer Sano-Franchini
 - Affiliation: Virginia Tech
-- Screenshot: collaboration_franchini-assignment.png 
+- Screenshot: collaboration_sano-franchini-assignment.png 
 
 This project was designed by Sano-Franchini as the culmination of [Issues in Professional and Public Discourse](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Syllabus-Web.pdf), a course for English majors at Virginia Tech. This course, which won the [XCaliber](https://tlos.vt.edu/xcaliber_awards/) award for teaching with technology, invites students to investigate "wicked problems," defined by[ Jon Kolko](http://www.jonkolko.com) as: “a form of large-scale social or cultural problem that is difficult to solve because of incomplete, contradictory, and changing requirements.” Sano-Franchini writes in an interview with *[The Chronicle of Higher Educatio*n](http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/07/12/feminisms-interaction-design-an-interview-with-jennifer-sano-franchini/)*, *“if we think of sexism and gender inequality as 'wicked problems,' it makes sense to consider if IxD can offer useful and practical approaches for designing experiences that engage these problems.” For the final project, students work in groups to design a conceptual prototype (for a mobile application, game, website, interface, performance, etc.) informed by theories, research, and ideas in feminisms and interaction design.
 
