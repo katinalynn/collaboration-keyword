@@ -84,7 +84,7 @@ In [Digital Humanities 150](http://digitalmateriallabor.org/) at UCLA, Professor
 - Type: Final Project Assignment
 - Source: [https://www.youtube.com/watch?v=BFuluIy-5QY](https://www.youtube.com/watch?v=BFuluIy-5QY) 
 - Copy of artifact:
-- Artifact Permissions: Standard YouTube License
+- Artifact Permissions: Standard YouTube license; permission granted by Mike Wesch
 - Creator: Mike Wesch 
 - Affiliation: Kansas State University
 - Screenshot: collaboration_wesch_falling-up.png
