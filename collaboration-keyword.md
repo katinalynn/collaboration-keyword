@@ -167,7 +167,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 ![screenshot](collaboration_BlackLivesMatter.png)
 - Type: Crowd-Sourced Syllabus
 - Source: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
-- Copy of artifact:
+- Copy of artifact: collaboration_BlackLivesMatter.pdf
 - Artifact Permissions: Open, public Google Doc
 - Creator: Mentoring Future Faculty of Color
 - Affiliation: The Graduate Center, CUNY
