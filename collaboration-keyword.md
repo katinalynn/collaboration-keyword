@@ -31,7 +31,7 @@ In research, writing, and teaching, ideas build on countless others, weaving a v
 
 Collaboration by difference is valuable in classroom environments as well. Julia Gergits and James Schramer note that "fruitful collaboration often starts with the recognition that difference is essential if a group wishes to generate truly original ideas" ([190](http://www.jaconlinejournal.com/archives/vol14.1/gergits-collaborative.pdf)). According to Andrea Lunsford and Lisa Ede, several types of assignments are well suited to collaboration: ones that are labor-intensive, that require multiple areas of expertise, or that require synthesis of divergent perspectives (*Singular* 123). These can range from low-stakes, informal, in-class activities to larger long-term projects.
 
-Teaching with an emphasis on collaboration enables the instructor to functions less as what Rancière calls a "master explicator" (11) and more as a facilitator. Collaborative pedagogy is closely related to student-centered pedagogy, in which students take greater ownership over their learning. As Kenneth Bruffee argues*, *collaborative learning does not negate the space for a lecture, but shifts the authority so that students are learning from their peers as well as the instructor. Bruffee writes that collaborative learning environments create “transition communities or support groups that students can rely on as they go through the risky process of becoming new members of the knowledge communities” [(8](http://www.amazon.com/Collaborative-Learning-Education-Interdependence-Authority/dp/0801852323/ref=sr_1_1?s=books&ie=UTF8&qid=1436799019&sr=1-1&keywords=9780801852329#reader_0801852323)).  
+Teaching with an emphasis on collaboration enables the instructor to functions less as what Rancière calls a "master explicator" (11) and more as a facilitator. Collaborative pedagogy is closely related to student-centered pedagogy, in which students take greater ownership over their learning. Kenneth Bruffee argues that collaborative learning does not negate the space for a lecture, but shifts the authority so that students are learning from their peers as well as the instructor. Bruffee writes that collaborative learning environments create “transition communities or support groups that students can rely on as they go through the risky process of becoming new members of the knowledge communities” [(8](http://www.amazon.com/Collaborative-Learning-Education-Interdependence-Authority/dp/0801852323/ref=sr_1_1?s=books&ie=UTF8&qid=1436799019&sr=1-1&keywords=9780801852329#reader_0801852323)).  
 
 As authors and educators ourselves, we integrate these approaches into our courses, with our failures teaching us as much as our successes. For example, Danica Savonick structures [courses](http://www.hastac.org/blogs/danicasavonick/2015/05/18/%E2%80%9Cintroduction-narrative%E2%80%9D-collaborative-experimental-intellectual-adv) around student-centered learning, public writing, and low-stakes group assignments, all leading up to a collaborative, digital, and public research project, which students evaluate after designing a rubric. Amanda Licastro scaffolds digital projects into undergraduate writing courses by adding new tools and techniques slowly throughout the semester. Students begin by posting provocations to a [course blog](https://wp.nyu.edu/licastro_fall14/), sharing "[Digital Literacy Timelines](https://wp.nyu.edu/licastro_fall14/tag/timeline/)," [live-tweeting](https://wp.nyu.edu/licastro_fall14/tag/atwood/) their readings, collectively annotating texts, and posting drafts for peer review. This leads to a collaborative [“Design Fiction](https://wp.nyu.edu/licastro_fall14/category/final_projects/)” project (based on Kari Kraus’s [Bibliocircuitry](http://www.karikraus.com/?p=334) project) in which students design a new reading or writing technology by pitching ideas, voting on the most compelling proposals, creating group contracts, and executing a prototype together. 
 
@@ -47,7 +47,7 @@ In curating this section, we pay particular attention to resources that exemplif
 
 * **Equality.** As much as possible, we worked to include non-proprietary digital projects that ensure the broadest possible access, and that give fair credit to each collaborator.
 
-* **Student-centered.** While not all of the projects we feature are student-created, they all give special value to the importance of teaching and learning, and the role of the student in shaping their own educational experience.
+* **Student-Centered Ethos.** While not all of the projects we feature are student-created, they all give special value to the importance of teaching and learning, and the role of the student in shaping their own educational experience.
 
 * **Creativity.** We paid special attention to projects that try something new, beautiful, or risky, thereby sparking new insights and advancing a field.
 
@@ -60,12 +60,12 @@ We hope that these resources will inspire educators to experiment with collabora
 - Type: a Digital Research Collaborative at St. Joseph's University
 - Source: http://beautifulsocial.org/
 - Copy of artifact: 
-- Artifact Permissions: 
-- Creator: Aimee Knight 
+- Artifact Permissions: Permission granted by Aimée Knight
+- Creator: Aimée Knight
 - Affiliation: St. Joseph's University
 - Screenshot: collaboration_BSocial.png
 
-Directed by Aimee Knight, assistant professor in the Department of Communication Studies, "Beautiful Social" pairs students with local non-profit organizations in inner-city Philadelphia to provide consulting, training, multimedia production, and community research. Students learn about the mission of each community group in order to design social media resources for the organizations. In “[Into the Wild: when students consult with nonprofits](https://medium.com/@aimeeknight/into-the-wild-when-students-consult-with-nonprofits-ac130578bb54)” Knight writes, “[w]hile working with[ B-Social](http://beautifulsocial.org/) research collaborative we learn how to take social media beyond the personal, beyond entertainment and into places for activism and social change. Working with nonprofits with purpose-driven missions shows us how social media can help make a difference in the world.”
+Directed by Aimée Knight, assistant professor in the Department of Communication Studies, "Beautiful Social" pairs students with local non-profit organizations in inner-city Philadelphia to provide consulting, training, multimedia production, and community research. Students learn about the mission of each community group in order to design social media resources for the organizations. In “[Into the Wild: when students consult with nonprofits](https://medium.com/@aimeeknight/into-the-wild-when-students-consult-with-nonprofits-ac130578bb54)” Knight writes, “[w]hile working with[ B-Social](http://beautifulsocial.org/) research collaborative we learn how to take social media beyond the personal, beyond entertainment and into places for activism and social change. Working with nonprofits with purpose-driven missions shows us how social media can help make a difference in the world.”
 
 ### "Digital Labor, Urban Space, and Materiality"
 ![screenshot](Collaboration_posner_DesignFiction.png)
@@ -105,12 +105,12 @@ This project was designed by Sano-Franchini as the culmination of [Issues in Pro
 
 ### Distributed Open Collaborative Course (DOCC)
 ![screenshot](collaboration_FemTechNet-DOCC.png)
-- Type:
+- Type: Course
 - Source: [http://femtechnet.org/docc/nodes/](http://femtechnet.org/docc/nodes/) 
 - Copy of artifact:
 - Artifact Permissions:
 - Creator: FemTechNet
-- Affiliation:
+- Affiliation: Multiple Universities
 - Screenshot: collaboration_FemTechNet-DOCC.png
 
 FemTechNet is an active network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism. For the past four years, FemTechNet has hosted a Distributed Open Collaborative Course in which instructors teaching courses related to "Feminism and Technology" use online platforms to connect their learning communities. In contrast to the top-down, hierarchical model of the MOOC (Massive Open Online Course) in which one instructor disseminates knowledge to many students, DOCCs are decentralized networks with multiple “nodes,” all of which are hubs of engaged, participatory learning. Based on the feminist praxes of distributed expertise and methods, this experiment in connected learning allows educators to share resources such as readings, video dialogues, and guest lectures, and creates a space for dialogue across institutional and disciplinary divides.
@@ -133,7 +133,7 @@ This “book review and engagement” is a collaboratively-authored book review 
 - Source: [https://openlab.citytech.cuny.edu/livinglab/](https://openlab.citytech.cuny.edu/livinglab/) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
-- Creator: Open Lab
+- Creator: Jonas Reitz, Charlie Edwards, and team
 - Affiliation: New York City College of Technology, CUNY
 - Screenshot: collaboration_livinglab.png
 
@@ -168,7 +168,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 - Type: Crowd-Sourced Syllabus
 - Source: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
 - Copy of artifact:
-- Artifact Permissions:
+- Artifact Permissions: Open, public Google Doc
 - Creator: Mentoring Future Faculty of Color
 - Affiliation: The Graduate Center, CUNY
 - Screenshot: collaboration_BlackLivesMatter.png
@@ -194,7 +194,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 
 Blackmon, Samantha, et al. "Not Your Mama’s Gamer." Web. 22 July 2015. [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2) 
 
-Bruffee, Kenneth M. *Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge* Baltimore: Johns Hopkins University Press, 1993.
+Bruffee, Kenneth M. *Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge* 2nd edition. Baltimore, Md: Johns Hopkins University Press, 1998. Print.
 
 Christie, Alex. "Pedagogy Toolkit for English." Web. 22 July 2015. [http://pedagogy-toolkit.org/resources/](http://pedagogy-toolkit.org/resources/)
 
