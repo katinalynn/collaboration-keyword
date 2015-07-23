@@ -56,122 +56,122 @@ We hope that these resources will inspire educators to experiment with collabora
 ## CURATED ARTIFACTS
 
 ### [B-Social](http://beautifulsocial.org/) 
-![screenshot](collaboration_BSocial.png)
+![screenshot](images/collaboration_BSocial.png)
 - Type: a Digital Research Collaborative at St. Joseph's University
 - Source: http://beautifulsocial.org/
 - Copy of artifact: 
 - Artifact Permissions: Permission granted by Aimée Knight
 - Creator: Aimée Knight
 - Affiliation: St. Joseph's University
-- Screenshot: collaboration_BSocial.png
+- Screenshot: images/collaboration_BSocial.png
 
 Directed by Aimée Knight, assistant professor in the Department of Communication Studies, "Beautiful Social" pairs students with local non-profit organizations in inner-city Philadelphia to provide consulting, training, multimedia production, and community research. Students learn about the mission of each community group and design social media resources for the organizations. In “[Into the Wild: when students consult with nonprofits](https://medium.com/@aimeeknight/into-the-wild-when-students-consult-with-nonprofits-ac130578bb54)” Knight writes, “[w]hile working with[ B-Social](http://beautifulsocial.org/) research collaborative we learn how to take social media beyond the personal, beyond entertainment and into places for activism and social change. Working with nonprofits with purpose-driven missions shows us how social media can help make a difference in the world.”
 
 ### "Digital Labor, Urban Space, and Materiality"
-![screenshot](collaboration_posner_DigitalLabor.png)
+![screenshot](images/collaboration_posner_DigitalLabor.png)
 - Type: Assignment 
 - Source:  [http://digitalmateriallabor.org/final-project/](http://digitalmateriallabor.org/final-project/) 
-- Copy of artifact: collaboration_posner_DigitalLabor.pdf 
+- Copy of artifact: artifact-copies/collaboration_posner_DigitalLabor.pdf 
 - Artifact Permissions: Creative Commons license 
 - Creator: Miriam Posner
 - Affiliation: UCLA
-- Screenshot: Collaboration_posner_DigitalLabor.png 
+- Screenshot: images/collaboration_posner_DigitalLabor.png 
 
 In [Digital Humanities 150](http://digitalmateriallabor.org/) at UCLA, Professor Miriam Posner asks students to critique the labor and materiality of digital devices already in production. The “device narratives” project is an online publication in which each device featured is a “chapter” written collaboratively by groups of students in the course.  These digital texts include maps, photographs, video, and other media hosted on a WordPress site (using the now-defunct ScrollKit). The structure and key concepts of this project are easily adaptable for any undergraduate or graduate course that focuses on research, writing, and digital literacy. 
 
 ### Falling Up
-![screenshot](collaboration_wesch_falling-up.png)
+![screenshot](images/collaboration_wesch_falling-up.png)
 - Type: Final Project Assignment
 - Source: [https://www.youtube.com/watch?v=BFuluIy-5QY](https://www.youtube.com/watch?v=BFuluIy-5QY) 
 - Copy of artifact:
 - Artifact Permissions: Standard YouTube license; permission granted by Mike Wesch
 - Creator: Mike Wesch 
 - Affiliation: Kansas State University
-- Screenshot: collaboration_wesch_falling-up.png
+- Screenshot: images/collaboration_wesch_falling-up.png
 
 Students in Mike Wesch’s "Digital Ethnography" courses move out of the dormitories at Kansas State University and into Meadowlark Hills, a retirement community near campus. Wesch challenges top-down and individualistic modes of learning by [organizing his courses](https://kansasstate.mediasite.com/mediasite/Play/f9f9b2ffa5cc44dc9d7c7eda182bf75c1d) around meaningful collaborative final projects, such as student-designed, directed, and produced [videos](https://kansasstate.mediasite.com/mediasite/Play/04f1d580eb664a068c9a9cebef7522771d). This semester, students created an “Interactive Empathy Game-Story” called “Falling Up.” To produce these digital ethnographies, students spend the semester getting to know the residents and collecting hours of interview footage. Wesch’s classes often meet at Meadowlark, with Wesch guiding the students to reflect on what they’ve achieved, what needs to be done, and how they will divide the labor. The partnership has produced transformative experiences for both students and residents, modeling how collaborative pedagogy can catalyze institutional change within and beyond the classroom. 
 
 ###  Feminisms and Interaction Design (IxD)
-![screenshot](collaboration_sano-franchini-assignment.png)
+![screenshot](images/collaboration_sano-franchini-assignment.png)
 - Type: Final Project Assignment
 - Source: [http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf)
-- Copy of artifact: collaboration_sano-franchini-assignment.pdf
+- Copy of artifact: artifact-copies/collaboration_sano-franchini-assignment.pdf
 - Artifact Permissions: CC BY-NC-SA 4.0
 - Creator: Jennifer Sano-Franchini
 - Affiliation: Virginia Tech
-- Screenshot: collaboration_sano-franchini-assignment.png 
+- Screenshot: images/collaboration_sano-franchini-assignment.png 
 
 This project was designed by Sano-Franchini as the culmination of [Issues in Professional and Public Discourse](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Syllabus-Web.pdf), a course for English majors at Virginia Tech. This course, which won the [XCaliber](https://tlos.vt.edu/xcaliber_awards/) award for teaching with technology, invites students to investigate "wicked problems," defined by [Jon Kolko](http://www.jonkolko.com) as: “a form of large-scale social or cultural problem that is difficult to solve because of incomplete, contradictory, and changing requirements.” Sano-Franchini writes in an interview with *[The Chronicle of Higher Education*](http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/07/12/feminisms-interaction-design-an-interview-with-jennifer-sano-franchini/), “if we think of sexism and gender inequality as 'wicked problems,' it makes sense to consider if IxD can offer useful and practical approaches for designing experiences that engage these problems.” For the final project, students work in groups to design a conceptual prototype (for a mobile application, game, website, interface, performance, etc.) informed by theories, research, and ideas in feminisms and interaction design.
 
 ### Distributed Open Collaborative Course (DOCC)
-![screenshot](collaboration_FemTechNet-DOCC.png)
+![screenshot](images/collaboration_FemTechNet-DOCC.png)
 - Type: Course
 - Source: [http://femtechnet.org/docc/nodes/](http://femtechnet.org/docc/nodes/) 
 - Copy of artifact:
 - Artifact Permissions:
 - Creator: FemTechNet
 - Affiliation: Multiple Universities
-- Screenshot: collaboration_FemTechNet-DOCC.png
+- Screenshot: images/collaboration_FemTechNet-DOCC.png
 
 FemTechNet is an active network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism. For the past four years, FemTechNet has hosted a Distributed Open Collaborative Course in which instructors teaching courses related to "Feminism and Technology" use online platforms to connect their learning communities. In contrast to the top-down, hierarchical model of the MOOC (Massive Open Online Course) in which one instructor disseminates knowledge to many students, DOCCs are decentralized networks with multiple “nodes,” all of which are hubs of engaged, participatory learning. Based on the feminist praxes of distributed expertise and methods, this experiment in connected learning allows educators to share resources such as readings, video dialogues, and guest lectures, and creates a space for dialogue across institutional and disciplinary divides.
 
 ### “It’s Complicated: The Social Lives of Networked Teens (danah boyd)” - Collaborative Book Engagement
-![screenshot](collaboration_boyd_book-review.png)
+![screenshot](images/collaboration_boyd_book-review.png)
 - Type: Collaborative Book Review and Engagement
 - Source: [http://www.hastac.org/pages/its-complicated-collaborative-book-engagement](http://www.hastac.org/pages/its-complicated-collaborative-book-engagement) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
 - Creator: HASTAC Scholars, organized by Megan Farnel, Iskandar ‘izul’ Zulkarnain, and Fiona Barnett
 - Affiliation: Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)
-- Screenshot: collaboration_boyd_book-review.png
+- Screenshot: images/collaboration_boyd_book-review.png
 
 This “book review and engagement” is a collaboratively-authored book review project produced by the [HASTAC scholars](http://www.hastac.org/scholars), a community of students who blog, host online forums, organize events, and develop projects across institutions. The organizers, Megan Farnel and Iskandar ‘izul’ Zulkarnain, worked with Scholars Director Fiona Barnett to solicit contributions from diverse academic communities. They write, “the reviews in this project comprise personal engagements with the chapter in question, a “report” of the chapter’s content, and pedagogical resources that are designed in conversation with the book.” This project is easily replicable in a classroom context, and models how a conventional, single-author genre can be remixed into a collaborative activity. 
 
 ### Living Laboratory
-![screenshot](collaboration_livinglab.png)
+![screenshot](images/collaboration_livinglab.png)
 - Type: Experiential, community-based learning
 - Source: [https://openlab.citytech.cuny.edu/livinglab/](https://openlab.citytech.cuny.edu/livinglab/) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
 - Creator: Jonas Reitz, Charlie Edwards, and team
 - Affiliation: New York City College of Technology, CUNY
-- Screenshot: collaboration_livinglab.png
+- Screenshot: images/collaboration_livinglab.png
 
 The mission of the undergraduate collaborative at CUNY’s City Tech is to "re-envision General Education as a ‘living laboratory’ using City Tech’s signature strengths—hands-on experiential models of learning and our vibrant Brooklyn Waterfront location." This Title V grant-funded program uses the rich historical and environmental resources of the Brooklyn waterfront to inspire location-based pedagogy across the disciplines. Living Laboratory uses a custom WordPress platform, Open Lab, to create digital interactive projects, support an open teaching and learning space, and to “enhance the intellectual and social fabric of the college community.” 
 
 ### Not Your Mama’s Gamer (NYMG)
-![screenshot](collaboration_nymg.png)
+![screenshot](images/collaboration_nymg.png)
 - Type: Collaborative Blog
 - Source: [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2) 
 - Copy of artifact:
 - Artifact Permissions: Creative Commons License 
 - Creator: Samantha Blackmon
 - Affiliation: Independent Collaboration
-- Screenshot: collaboration_nymg.png
+- Screenshot: images/collaboration_nymg.png
 
 NYMG is a collaborative blog with a series of regular and featured contributors who critique video games and gaming culture. The site includes podcasts, videos, and and a list of outside content of interest all working towards the mission of "unpacking games from a feminist perspective, and having a good time while we’re at it."  From creator Samantha Blackmon, “NYMG has not only been a tool for social change, but a pedagogical one on a number of levels. The site helps demonstrate how we can work collaboratively with other scholars, industry professionals, and community members to learn from each other and work together as change agents. NYMG also gives us the chance to show people how we, as scholars, might not only write for an academic audience, but also write in such a way as to become a part of a broader conversation.”
 
 ### The Pedagogy Project
-![screenshot](collaboration_pedagogy-project.png)
+![screenshot](images/collaboration_pedagogy-project.png)
 - Type: Crowd-Sourced Collection of Assignments and Syllabi
 - Source: [http://www.hastac.org/pedagogy-project](http://www.hastac.org/pedagogy-project) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
 - Creator: HASTAC Scholars
 - Affiliation: Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC) 
-- Screenshot: collaboration_pedagogy-project.png
+- Screenshot: images/collaboration_pedagogy-project.png
 
 The Pedagogy Project is a crowd-sourced collection of more than 80 projects and assignments related to digital technologies and collaboration, many contributed by graduate students. It appears on HASTAC (Humanities, Arts, Science, and Technology Alliance and Collaboratory), a free and open network of educators committed to transforming the ways we teach and learn. This collection is organized into nine chapters, which range from "Assessment Strategy" to “Multimedia Projects.” We highly recommend the chapter on “Collaborative Digital Projects,” which includes examples of projects and assignments related to close reading, blogging, game design, collective annotation, digital archives, visualization, and designing assignment sequences. 
 
 ### Teaching #BlackLivesMatter: Countering the Pedagogies of Anti-Black Racism, A Collaborative, Crowd-Sourced Syllabus 
-![screenshot](collaboration_BlackLivesMatter.png)
+![screenshot](images/collaboration_BlackLivesMatter.png)
 - Type: Crowd-Sourced Syllabus
 - Source: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
-- Copy of artifact: collaboration_BlackLivesMatter.pdf
+- Copy of artifact: artifact-copies/collaboration_BlackLivesMatter.pdf
 - Artifact Permissions: Open, public Google Doc
 - Creator: Mentoring Future Faculty of Color
 - Affiliation: The Graduate Center, CUNY
-- Screenshot: collaboration_BlackLivesMatter.png
+- Screenshot: images/collaboration_BlackLivesMatter.png
 
 ["Teaching #BlackLivesMatter"](http://www.hastac.org/blogs/danicasavonick/2014/12/10/teaching-blacklivesmatter-countering-pedagogies-anti-black-racism) was an event organized by the Mentoring Future Faculty of Color group at the CUNY Graduate Center that explored “how to address racialization and state power as scholar-teachers, working at the level of both immediately executable plans for teaching/research, and longer term strategies for making the academy accountable to racial violence.” In order to extend this conversation to as many voices as possible, the organizers set up a syllabus template using Google Docs that anyone could contribute to and circulate. Contributors are invited to share resources, activities, discussion questions, and assignments related to teaching anti-racism. As with many of our examples, here technology was used to advance the group’s objectives for the event, and to reach a wider audience.  
 
