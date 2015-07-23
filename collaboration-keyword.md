@@ -69,10 +69,10 @@ We hope that these resources will inspire educators to experiment with collabora
 Directed by Aimee Knight, assistant professor in the Department of Communication Studies, "Beautiful Social" pairs students with local non-profit organizations in inner-city Philadelphia to provide consulting, training, multimedia production, and community research. Students learn about the mission of each community group in order to design social media resources for the organizations. In “[Into the Wild: when students consult with nonprofits](https://medium.com/@aimeeknight/into-the-wild-when-students-consult-with-nonprofits-ac130578bb54)” Knight writes, “[w]hile working with[ B-Social](http://beautifulsocial.org/) research collaborative we learn how to take social media beyond the personal, beyond entertainment and into places for activism and social change. Working with nonprofits with purpose-driven missions shows us how social media can help make a difference in the world.”
 
 ### "Digital Labor, Urban Space, and Materiality"
-![screenshot](collaboration_posner_DesignFiction.png)
+![screenshot](collaboration_posner_DigitalLabor.png)
 - Type: Assignment 
 - Source:  [http://digitalmateriallabor.org/final-project/](http://digitalmateriallabor.org/final-project/) 
-- Copy of artifact: /Users/amandalicastro/Dropbox/Collaboration/Collaboration_DeviceNarrative.png
+- Copy of artifact: collaboration_posner_DigitalLabor.pdf 
 - Artifact Permissions: Creative Commons license 
 - Creator: Miriam Posner
 - Affiliation: UCLA
