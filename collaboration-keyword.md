@@ -108,12 +108,12 @@ This project was designed by Sano-Franchini as the culmination of [Issues in Pro
 - Type: Course
 - Source: [http://femtechnet.org/docc/nodes/](http://femtechnet.org/docc/nodes/) 
 - Copy of artifact:
-- Artifact Permissions:
+- Artifact Permissions: Permission granted by Lisa Nakamura
 - Creator: FemTechNet
 - Affiliation: Multiple Universities
 - Screenshot: images/collaboration_FemTechNet-DOCC.png
 
-FemTechNet is an active network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism. For the past four years, FemTechNet has hosted a Distributed Open Collaborative Course in which instructors teaching courses related to "Feminism and Technology" use online platforms to connect their learning communities. In contrast to the top-down, hierarchical model of the MOOC (Massive Open Online Course) in which one instructor disseminates knowledge to many students, DOCCs are decentralized networks with multiple “nodes,” all of which are hubs of engaged, participatory learning. Based on the feminist praxes of distributed expertise and methods, this experiment in connected learning allows educators to share resources such as readings, video dialogues, and guest lectures, and creates a space for dialogue across institutional and disciplinary divides.
+FemTechNet is an active network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism. For the past four years, FemTechNet has hosted a Distributed Open Collaborative Course in which instructors teaching courses related to "Feminism and Technology" use online platforms to connect their learning communities. In contrast to the top-down, hierarchical model of the MOOC (Massive Open Online Course) in which one instructor disseminates knowledge to many students, DOCCs are decentralized networks with multiple “nodes,” all of which are hubs of engaged, participatory learning. In [a blog post about the ethos and structure of DOCCs](http://femtechnet.org/2015/05/ftn-roadshow-blog-series-collaborative/), K.J. Surkan writes, “the open and collaborative nature of FemTechNet pedagogy actively breaks down conventional distinctions between teacher and student, performer and audience.” Based on the feminist praxes of distributed expertise and methods, this experiment in connected learning allows educators to share resources such as readings, video dialogues, and guest lectures, and creates a space for dialogue across institutional and disciplinary divides.
 
 ### “It’s Complicated: The Social Lives of Networked Teens (danah boyd)” - Collaborative Book Engagement
 ![screenshot](images/collaboration_boyd_book-review.png)
@@ -248,4 +248,7 @@ Sinclair, Stéfan, and Geoffrey Rockwell. "Voyant Tools: Reveal Your Texts." Web
 "Special Issue: Mentorship and Collaboration." *The Journal of Interactive Technology and Pedagogy* 7 (2015). [http://jitp.commons.gc.cuny.edu/category/issues/issue-7/] (http://jitp.commons.gc.cuny.edu/category/issues/issue-7/) 
 
 Spiro, Lisa. "Zotero | Groups > Collaborative Scholarship in the Digital Humanities." Web. 22 July 2015. [https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities](https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities) 
+
+Surkan, K.J. “FTN Roadshow Blog Series* – Collaborative.” FemTechNet. Web. 29 July 2015. [http://femtechnet.org/2015/05/ftn-roadshow-blog-series-collaborative/](http://femtechnet.org/2015/05/ftn-roadshow-blog-series-collaborative/)
+
 
